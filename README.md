@@ -7,4 +7,4 @@ What Am I?
 follow me and glaxyias on github!!!!
 
 -Note, Why do i have four followers? what did i do to get so many? I only have one repo.
-  Your Null_X TEAM
+  -Your Null_X TEAM
